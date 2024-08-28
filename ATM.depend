@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1724805555 source:/home/elly/Desktop/Codeblocks/ATM/main.cpp
+	<iostream>
+	<string>
+
